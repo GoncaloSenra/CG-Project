@@ -1,0 +1,10 @@
+﻿  PROJETO_CG.cpp
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(74,28): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(74,62): warning C4838: a conversão de 'double' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(246,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(246,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(246,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(247,28): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(247,34): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+C:\Users\GSenra\source\repos\PROJETO_CG\PROJETO_CG\PROJETO_CG.cpp(247,40): warning C4838: a conversão de 'GLint' em 'GLfloat' requer uma conversão de restrição
+  PROJETO_CG.vcxproj -> C:\Users\GSenra\source\repos\PROJETO_CG\Debug\PROJETO_CG.exe
